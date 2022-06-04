@@ -1,0 +1,2 @@
+# MatrixResultLua
+Решение матрицы Lua
